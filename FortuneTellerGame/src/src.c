@@ -143,9 +143,9 @@ int main(void) {
      do
 		{
     printf("\n\nPlease enter your loved ones first name initial 'J' \n");
-		// Nonnarit: Since you're accepting input as a single character, you should use %c instead of %d
+
     scanf(" %c", &j);
-		// Nonnarit: Since k will contain a character, the literal has to be enclosed by single quotation marks
+		//Since k will contain a character, the literal has to be enclosed by single quotation marks
 		// and I would suggest using switch-case, since you have several cases. I commented your code (using if-else) out.
 		switch(j)
 		{
