@@ -1,4 +1,4 @@
-small dev game made with c++ for class project 
+small dev game made with c for class project 
 
 
 Hey everyone!! 
